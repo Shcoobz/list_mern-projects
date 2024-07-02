@@ -22,7 +22,7 @@
 <table>
 <tr>
     <th align="center">
-        <img width="220" height="1">
+        <img width="170" height="1">
         <p> 
             <small>
                 Project Name
@@ -30,7 +30,7 @@
         </p>
     </th>
     <th align="center">
-        <img width="220" height="1">
+        <img width="350" height="1">
         <p> 
             <small>
                 Image
@@ -38,7 +38,7 @@
         </p>
     </th>
     <th align="center">
-        <img width="220" height="1">
+        <img width="170" height="1">
         <p> 
             <small>
                 Repo
@@ -46,7 +46,7 @@
         </p>
     </th>
     <th align="center">
-        <img width="220" height="1">
+        <img width="170" height="1">
         <p> 
             <small>
                 Demo
@@ -59,7 +59,7 @@
         <strong>Typescript: Blabber Bot</strong>
     </td>
     <td align="center">
-        <img src="img/advancedJS_mern_blabber-bot.png" alt="Blabber Bot Image" width="220">
+        <img src="img/advancedJS_mern_blabber-bot.png" alt="Blabber Bot Image" width="350">
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_mern_blabber-bot/"><img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" alt="Repo"></a>
