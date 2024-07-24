@@ -1,5 +1,7 @@
 ## Mern
 
+Demo takes some time to load, because of render, sorry! :)
+
 <table>
 <tr>
     <th align="center">
